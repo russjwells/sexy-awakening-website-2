@@ -25,13 +25,6 @@ const IndexPage = () => (
     <p>Sexy Awakening is independently run and self-funded. We are accepting financial support for Sexy Awakening's initial development and launch. If you'd like to support us before memberships are live then <a href="https://www.patreon.com/sexyawakening">become our Patron on Patreon</a>. Sexy Awakening is independently run and self-funded. Your financial support helps keep Sexy Awakening soverign and free of influence from corporate interests.</p>
     <h2>Coming Soon</h2>
     <p>We are adding more features to make Sexy Awakening even more, activating, empowering, evolutionary, and safe. See what's <Link to="/coming-soon/">brewing</Link>.</p>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
 
