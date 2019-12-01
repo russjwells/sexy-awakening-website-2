@@ -7,8 +7,16 @@ import SEO from "../components/seo"
 const Guidelines = () => (
   <Layout>
     <SEO title="Guidelines" />
-    <h1>Sexy Awakening Closed Beta</h1>
-    <p>To request an invite to Sexy Awakening send an email to sexyawakening@gmail.com</p>
+    <h1>Guidelines</h1>
+    <p>Guidelines for Sexy Awakening's conscious culture:</p>
+    <ul>
+      <li>Honor</li>
+      <li>Integrity</li>
+      <li>Respect</li>
+      <li>Consent</li>
+      <li>Boundary awareness</li>
+      <li>No tolerance for sexual violence.</li>
+    </ul>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )

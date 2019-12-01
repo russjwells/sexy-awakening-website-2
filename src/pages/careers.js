@@ -7,8 +7,8 @@ import SEO from "../components/seo"
 const Careers = () => (
   <Layout>
     <SEO title="Careers" />
-    <h1>Sexy Awakening Closed Beta</h1>
-    <p>To request an invite to Sexy Awakening send an email to sexyawakening@gmail.com</p>
+    <h1>Careers</h1>
+    <p>If you'd like to work at Sexy Awakening, send an email to sexyawakening@gmail.com.</p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )

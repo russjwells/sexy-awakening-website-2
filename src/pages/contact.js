@@ -7,8 +7,8 @@ import SEO from "../components/seo"
 const Contact = () => (
   <Layout>
     <SEO title="Contact" />
-    <h1>Sexy Awakening Closed Beta</h1>
-    <p>To request an invite to Sexy Awakening send an email to sexyawakening@gmail.com</p>
+    <h1>Contact</h1>
+    <p>To contact Sexy Awakening, send an email to sexyawakening@gmail.com</p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
