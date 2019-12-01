@@ -8,8 +8,8 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <p>Sexy Awakening is Earth's first conscious sexuality portal. It's best way to meet new romantic interests, lovers, and friends online. Explore conscious sexuality and relationships!</p>
-    <h2>Swipe with intention!</h2>
+    <p>Sexy Awakening is the best way to meet new romantic interests, lovers, and friends online. Explore conscious sexuality and relationships!</p>
+    <h2>Swipe With Intention</h2>
     <p>Swipe right for sex, up for romance, left for friendship, and down to pass. If someone swipes on you with the same intention you are connected and can <b>begin connecting with a mutual understanding</b>. Sexy Awakening cultivates higher consciousness, a culture of consent, and intentional connections.</p>
     <h2>About Us</h2>
     <p>We believe that relationships are a <b>transformational experience</b> and we exist in order to facilitate <b>evolutionary connections</b>. We encourage honest upfront communication and radical self-expression on our platform. Sexy Awakening is a place for and to connect with beings of <b>higher consciousness</b>. This is a sex positive and inclusive space held for everyone to express, grow, play and connect on. On Sexy Awakening there is space for your sexuality, desires, and abilities in their fullnesses. We understand sexuality to be fluid, gender as nonbinary, and everyone as sacred. Enjoy yourselves.</p>
