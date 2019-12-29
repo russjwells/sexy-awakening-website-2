@@ -27,7 +27,7 @@ const IndexPage = () => (
     <h2>Support Us on Patreon</h2>
     <p>Sexy Awakening is independently run and self-funded. We are accepting financial support for Sexy Awakening's initial development and launch. If you'd like to support us before memberships are live then you may <a href="https://www.patreon.com/sexyawakening">become our Patron</a> on Patreon. Sexy Awakening is independently created and self-funded. Your financial support helps keep Sexy Awakening soverign and free of influence from corporate interests.</p>
     <h2>Coming Soon</h2>
-    <p>We are adding more features to make Sexy Awakening even more, activating, empowering, and safe. See what's <Link to="/coming-soon/">brewing</Link>.</p>
+    <p>We are adding more features to make Sexy Awakening even more activating, empowering, and safe. <Link to="/coming-soon/">See more</Link>.</p>
   </Layout>
 )
 
