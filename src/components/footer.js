@@ -26,7 +26,8 @@ const Footer = () => (
         <Link to="/contact/" style={{color:'white', textDecoration:'none'}}>Contact</Link> &nbsp;
         <br /><br />
         <a href="https://www.instagram.com/sexyawakening/" style={{color:'white', textDecoration:'none'}}>Instagram</a> | &nbsp;
-        <a href="https://www.facebook.com/SxxyAwakening/" style={{color:'white', textDecoration:'none'}}>Facebook</a> &nbsp;
+        <a href="https://www.facebook.com/SxxyAwakening/" style={{color:'white', textDecoration:'none'}}>Facebook</a> | &nbsp;
+        <a href="https://twitter.com/sexyawakening" style={{color:'white', textDecoration:'none'}}>Twitter</a> &nbsp;
         </p>
         </div>
     </div>
