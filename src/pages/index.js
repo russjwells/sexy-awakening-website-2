@@ -16,7 +16,10 @@ const IndexPage = () => (
     <h2>Membership</h2>
     <p>Sexy Awakening is <b>free to join</b>. Unlimited memberships will be available for $11 per month. They include unlimited connections and advanced match filters. You must be 18 or older to create an account.</p>
     <h2>How to Join</h2>
-    <p>Relaunching soon for iOS, Android, and the web.</p>
+    <p>We are in the approval process for the app stores. For now, use these options:</p>
+    <p>Android: <a href="https://www.dropbox.com/s/n64kjccamwvdskr/sexy-awakening-37b1ca825ea14c1e908228f5ebfbcf4b-signed.apk?dl=1">Download</a></p>
+    <p>iOS: Coming Soon</p>
+    <p>Web: Coming Soon</p>
     {/*<p>iPhone users download the app <a href="https://testflight.apple.com/join/A52QNb4b">here</a>. Android users can download the App in the <a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store.</a></p>*/}
     <h2>Conscious Culture</h2>
     <p>Sexy Awakening encourages a culture of immediacy, sexuality, play, exploration, intuition, and transformation, grounded in a deeply rooted sense of autonomy, respect, and consent.</p>
@@ -24,7 +27,7 @@ const IndexPage = () => (
     <h2>Support via Patreon</h2>
     <p>Sexy Awakening is independently run and self-funded. We are accepting financial support for Sexy Awakening's initial development and launch. If you'd like to support us before memberships are live then <a href="https://www.patreon.com/sexyawakening">become our Patron on Patreon</a>. Sexy Awakening is independently run and self-funded. Your financial support helps keep Sexy Awakening soverign and free of influence from corporate interests.</p>
     <h2>Coming Soon</h2>
-    <p>We are adding more features to make Sexy Awakening even more, activating, empowering, evolutionary, and safe. See what's <Link to="/coming-soon/">brewing</Link>.</p>
+    <p>We are adding more features to make Sexy Awakening even more, activating, empowering, and safe. See what's <Link to="/coming-soon/">brewing</Link>.</p>
   </Layout>
 )
 
