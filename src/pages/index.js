@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Download from the Play Store</a> <b>iOS: </b>Coming Soon <b>Web: </b>Coming Soon</p>
+    <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a> <b>iOS: </b>Coming Soon <b>Web: </b>Coming Soon</p>
     <p>Sexy Awakening is the best way to meet new romantic interests, lovers, and friends online. Explore conscious sexuality and relationships!</p>
     <h2>Swipe With Intention</h2>
     <p>Swipe right for sex, up for romance, left for friendship, and down to pass. If someone swipes on you with the same intention you are connected and can begin connecting with a <b>mutual understanding</b>.</p>
@@ -18,7 +18,7 @@ const IndexPage = () => (
     <p>Sexy Awakening is <b>free to join</b>. Full memberships will be available for $11 per month. You must be 18 or older to create an account.</p>
     <h2>How to Join</h2>
     <p>We are in the approval process for the app stores. For now, use these options:</p>
-    <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Download from the Play Store</a> <b>iOS: </b>Coming Soon <b>Web: </b>Coming Soon</p>
+    <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a> <b>iOS: </b>Coming Soon <b>Web: </b>Coming Soon</p>
     {/*<p>iPhone users download the app <a href="https://testflight.apple.com/join/A52QNb4b">here</a>. Android users can download the App in the <a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store.</a></p>*/}
     <h2>Conscious Culture</h2>
     <p>Sexy Awakening encourages a culture of immediacy, sexuality, play, exploration, intuition, and transformation, grounded in a deeply rooted sense of autonomy, respect, and consent.</p>
