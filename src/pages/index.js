@@ -27,7 +27,7 @@ const IndexPage = () => (
     <p>Sexy Awakening encourages a culture of immediacy, sexuality, play, exploration, intuition, and inspiration that is grounded in a deeply rooted sense of autonomy, respect, and soverignty.</p>
     <p>We are creating a culture of consent. In a transformational space it is important to respect each individual's boundaries, and to be able to hold your own.</p>
     <h2>Support Us</h2>
-    <p>Sexy Awakening is independently created and funded. If you'd like to support Sexy Awakening before paid memberships are live then you may <a href="https://www.patreon.com/sexyawakening">become our Patron</a> on Patreon. </p>
+    <p>Sexy Awakening is independently created and funded. If you'd like to support Sexy Awakening before paid memberships are live please <a href="https://www.patreon.com/sexyawakening">become our Patron</a> on Patreon. We appreciate you.</p>
     <h2>Coming Soon</h2>
     <p>We are adding more features to make Sexy Awakening even more activating, empowering, and safe. <Link to="/coming-soon/">See more</Link>.</p>
   </Layout>
