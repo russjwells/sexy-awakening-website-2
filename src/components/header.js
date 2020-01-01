@@ -28,6 +28,8 @@ const Header = ({ siteTitle }) => (
           <div 
           style={{
             fontSize: '2em', 
+            fontFamily: 'helvetica, arial, sans-serif',
+            fontWeight: 'bold',
             display: 'flex',
             flex: '1',
             justifyContent: 'flex-start',
