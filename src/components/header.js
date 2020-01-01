@@ -17,8 +17,7 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <img src={logo} width="80" height="80" />
-      <h1 style={{ margin: 0 }}>
+      <div style={{ margin: 0 }}>
         <Link
           to="/"
           style={{
@@ -26,9 +25,19 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          <div 
+          style={{
+            fontSize: '2em', 
+            display: 'flex',
+            flex: '1',
+            justifyContent: 'flex-start',
+            alignItems: 'center'
+          }}>
+            <img src={logo} width="80" height="80" />
+            {siteTitle}
+          </div>
         </Link>
-      </h1>
+      </div>
     </div>
   </header>
 )
