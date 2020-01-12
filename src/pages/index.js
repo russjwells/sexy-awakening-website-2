@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a> <b>iOS: </b>Coming Soon <b>Web: </b>Coming Soon</p>
+    <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a> <b>iOS: </b><a href="https://testflight.apple.com/join/A52QNb4b">Apple Test Flight</a> <b>Web: </b>Coming Soon</p>
     <p>Sexy Awakening is the best place to meet new friends, lovers and romantic interests online. Explore conscious sexuality and relationships!</p>
     <h2>Swipe With Intention</h2>
     <p>Swipe right for sex, up for romance, left for friendship, and down to pass. If someone swipes you with the same intention you are connected and can begin to chat with <b>mutual understanding</b>.</p>
@@ -19,7 +19,7 @@ const IndexPage = () => (
     <p>You must be 18 or older to create an account.</p>
     <h2>How to Join</h2>
     <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a></p>
-    <p><b>iOS: </b>Coming Soon </p>
+    <p><b>iOS: </b><a href="https://testflight.apple.com/join/A52QNb4b">Apple Test Flight</a> </p>
     <p> <b>Web: </b>Coming Soon </p>
     {/*<p>iPhone users download the app <a href="https://testflight.apple.com/join/A52QNb4b">here</a>. Android users can download the App in the <a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store.</a></p>*/}
     <h2>Conscious Culture</h2>
@@ -28,8 +28,8 @@ const IndexPage = () => (
     <p>We are creating a culture of consent. In a transformational space it is important to respect each individual's boundaries, and to be able to hold your own.</p>
     <h2>Support Us</h2>
     <p>Sexy Awakening is independently created and funded. If you'd like to support Sexy Awakening before paid memberships are live please <a href="https://www.patreon.com/sexyawakening">become our Patron</a> on Patreon. We appreciate you.</p>
-    <h2>Coming Soon</h2>
-    <p>We are adding more features to make Sexy Awakening even more activating, empowering, and safe. <Link to="/coming-soon/">See more</Link>.</p>
+    <h2>Thank you</h2>
+    <p>We are grateful for your presence.</p>
   </Layout>
 )
 
