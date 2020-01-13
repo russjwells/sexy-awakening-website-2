@@ -15,12 +15,15 @@ const IndexPage = () => (
     <h2>About Us</h2>
     <p>We believe that relationships are a <b>transformational experience</b> and we exist in order to facilitate <b>spiritual evolution</b>. We encourage honest upfront communication and radical self-expression on our platform. Sexy Awakening is a place for and to connect with beings of <b>higher consciousness</b>. This is a sex positive and inclusive space held for expression, growth, play and connection. On Sexy Awakening there is space for you. We understand sexuality to be fluid, gender as nonbinary, and that everyone is sacred. Enjoy yourselves.</p>
     <h2>Membership</h2>
-    <p>Sexy Awakening is <b>free to join</b>, but paid full memberships are available for $11 per month.</p>
+    <p>Sexy Awakening is <b>free</b>, but paid full memberships are available for $11 per month.</p>
     <p>You must be 18 or older to create an account.</p>
-    <h2>How to Join</h2>
+    <h2>How to Enter</h2>
     <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a></p>
-    <p><b>iOS: </b><a href="https://testflight.apple.com/join/A52QNb4b">Apple Test Flight</a> </p>
-    <p> <b>Web: </b>Coming Soon </p>
+    <p><b>iOS: </b><a href="https://testflight.apple.com/join/A52QNb4b">iOS App</a> </p>
+    {
+      //<p> <b>Web: </b>Coming Soon </p>
+    }
+    
     {/*<p>iPhone users download the app <a href="https://testflight.apple.com/join/A52QNb4b">here</a>. Android users can download the App in the <a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store.</a></p>*/}
     <h2>Conscious Culture</h2>
     <p>Sexy Awakening is a transformational space.</p>
