@@ -137,7 +137,7 @@ vital interests of a person. This may include preserving or disclosing any of yo
 <p>Your access to the App, as well as this Privacy Policy are governed and interpreted by the laws of the State of California, other than such laws, rules, regulations and case law that would result in the application of the laws of a jurisdiction other than the State of California. By using the App, you are consenting to the exclusive jurisdiction of the courts of the United States and the State of California. You agree that such courts shall have in personam jurisdiction and venue and waive any objection based on inconvenient forum. You agree that you will not file or participate in a class action against us. In the event there is a discrepancy between this English language version and any translated copies of the Policy, the English version shall prevail.</p>
 <p>Sexy Awakening is Russell Wells doing business as Sexy Awakening. Our registered address is 1223 Cleveland Ave., #200-114 San Diego, California, 92103.</p>
 <p>Thanks for reading, we hope we didn't drone on for too long!</p><h3>Effective date</h3>
-<p>This Privacy Policy was last updated on 24 May 2018.</p> </div>
+<p>This Privacy Policy was last updated on 13 January 2020.</p> </div>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
