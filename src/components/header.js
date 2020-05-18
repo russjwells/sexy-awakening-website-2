@@ -40,6 +40,16 @@ const Header = ({ siteTitle }) => (
           </div>
         </Link>
       </div>
+      <div
+        style={{
+          color: `#e54560`,
+          textDecoration: `none`,
+          fontFamily: 'helvetica, arial, sans-serif',
+              fontWeight: 'bold',
+        }}
+      >
+        SWIPE WITH INTENTION
+        </div>
     </div>
   </header>
 )
