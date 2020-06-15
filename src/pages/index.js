@@ -33,7 +33,7 @@ const IndexPage = () => (
       //<p>Sexy Awakening is independently created and funded. If you'd like to support Sexy Awakening please <a href="https://www.patreon.com/sexyawakening">become our Patron</a> on Patreon. We appreciate you.</p>
     }
     <h2>Thank you</h2>
-    <p>We are grateful for your presence.</p>
+    <p>We are grateful for your presence with us.</p>
   </Layout>
 )
 
