@@ -36,20 +36,28 @@ const Header = ({ siteTitle }) => (
             alignItems: 'center'
           }}>
             <img src={logo} width="80" height="80" />
-            {siteTitle}
+            <div>
+              <div>
+                {siteTitle}
+              </div>
+              <div
+                style={{
+                  color: `#e54560`,
+                  marginTop: '6px',
+                  fontWeight: '200',
+                  textDecoration: `none`,
+                  fontSize: '.5em',
+                  fontFamily: 'helvetica, arial, sans-serif',
+                      fontWeight: 'bold',
+                }}
+              >
+                SWIPE WITH INTENTION
+              </div>
+            </div>
+            
           </div>
         </Link>
       </div>
-      <div
-        style={{
-          color: `#e54560`,
-          textDecoration: `none`,
-          fontFamily: 'helvetica, arial, sans-serif',
-              fontWeight: 'bold',
-        }}
-      >
-        SWIPE WITH INTENTION
-        </div>
     </div>
   </header>
 )
