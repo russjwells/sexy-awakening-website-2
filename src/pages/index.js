@@ -17,8 +17,8 @@ const IndexPage = () => (
     <p>Sexy Awakening is <b>free</b> to use, but paid full memberships are available for $11 per month.</p>
     <p>You must be 18 or older to create an account.</p>
     <h2>How to Enter</h2>
-    <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a></p>
-    <p><b>iOS: </b><a href="https://testflight.apple.com/join/A52QNb4b">iOS App</a> </p>
+    <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a> <b>iOS: </b><a href="https://testflight.apple.com/join/A52QNb4b">iOS App</a> </p>
+
     {
       //<p> <b>Web: </b>Coming Soon </p>
     }
@@ -26,7 +26,7 @@ const IndexPage = () => (
     {/*<p>iPhone users download the app <a href="https://testflight.apple.com/join/A52QNb4b">here</a>. Android users can download the App in the <a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store.</a></p>*/}
     <h2>Conscious Culture</h2>
     <p>Sexy Awakening is a transformational space.</p>
-    <p>Sexy Awakening encourages a culture of immediacy, sexuality, play, exploration, intuition, and inspiration that is grounded in a deeply rooted sense of autonomy, respect, and soverignty.</p>
+    <p>Sexy Awakening encourages a culture of play, exploration, intuition, and inspiration that is grounded in a deeply rooted sense of autonomy, respect, and soverignty.</p>
     <p>We are creating a culture of consent. In a transformational space it is important to respect each individual's boundaries, and to be able to hold your own.</p>
     {
       //<h2>Support Us</h2>
