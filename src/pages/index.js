@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <p><b>Android: </b><a href="https://play.google.com/store/apps/details?id=com.DigitalHyperspace.SexyAwakening">Play Store</a> <b>iOS: </b><a href="https://testflight.apple.com/join/A52QNb4b">Apple Test Flight</a> <b>Web: </b>Coming Soon</p>
-    <p>Explore conscious sexuality and relationships! <br />Sexy Awakening is the best place to meet new people online - for lovers romance and friends. <br /></p>
+    <p>Explore conscious sexuality and relationships! The best place to meet new people online. <br /></p>
     <h2>Intentional Swiping</h2>
     <p>Swipe according to your interest... if you had to pick one! Right for sex, up for romance, left for friendship, and down to pass. When someone swipes you with the <b>same intention</b> you are connected.</p>
     <h2>About Us</h2>
