@@ -28,7 +28,7 @@ const Header = ({ siteTitle }) => (
           <div 
           style={{
             fontSize: '2em', 
-            fontFamily: 'helvetica, arial, sans-serif',
+            fontFamily: 'Ubuntu, sans-serif',
             fontWeight: 'bold',
             display: 'flex',
             flex: '1',
@@ -47,11 +47,11 @@ const Header = ({ siteTitle }) => (
                   fontWeight: '200',
                   textDecoration: `none`,
                   fontSize: '.5em',
-                  fontFamily: 'helvetica, arial, sans-serif',
+                  fontFamily: 'Ubuntu, sans-serif',
                       fontWeight: 'bold',
                 }}
               >
-                SWIPE WITH INTENTION
+                Swipe with intention
               </div>
             </div>
             
