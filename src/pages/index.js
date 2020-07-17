@@ -12,7 +12,7 @@ const IndexPage = () => (
     <h2>Intentional Swiping</h2>
     <p>Swipe according to your interest... as if you had to pick one! Right for sex, up for romance, left for friendship, and down to pass. When someone swipes you with the <b>same intention</b> you are connected.</p>
     <h2>About Us</h2>
-    <p>We believe that relationships are a potentially <b>transformational experience</b> and we exist in order to facilitate <b>spiritual evolution</b> through relationships and sexuality. We encourage honest communication and radical self-expression on our platform. Sexy Awakening is a place for beings of <b>higher consciousness</b> to flourish and grow. A sex positive and inclusive space held for expression, play and connection. On Sexy Awakening there is space for you. We understand sexuality to be fluid, gender as nonbinary, and that everyone is sacred. Enjoy yourselves.</p>
+    <p>We believe that relationships are a <b>transformational experience</b> and we exist in order to facilitate <b>spiritual evolution</b> through relationships and sexuality. We encourage honest communication and radical self-expression on our platform. Sexy Awakening is a place for beings of <b>higher consciousness</b> to flourish and grow. A sex positive and inclusive space held for expression, play and connection. We understand sexuality to be fluid, gender as nonbinary, and that everyone is sacred. There is space for you here. Enjoy yourselves.</p>
     <h2>Membership</h2>
     <p>Sexy Awakening is <b>free</b> to use, but paid full memberships are available for $11 per month. You must be 18 or older to create an account.</p>
     <h2>How to Enter</h2>
