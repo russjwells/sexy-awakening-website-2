@@ -23,7 +23,7 @@ const Footer = () => (
         }}
         >
           <p style={{color:'white'}}>© {new Date().getFullYear()}, 
-              {` `} Sexy Awakening &nbsp; | &nbsp;
+              {` `} Sexy Awakening LLC&nbsp; | &nbsp;
           <Link to="/privacy-policy/" style={{color:'white', textDecoration:'none'}}>Privacy Policy</Link> | &nbsp;
           <Link to="/terms-of-service/" style={{color:'white', textDecoration:'none'}}>Terms of Service</Link> | &nbsp;
           <Link to="/cancellation-policy/" style={{color:'white', textDecoration:'none'}}>Cancellation Policy</Link> | &nbsp;
@@ -36,13 +36,13 @@ const Footer = () => (
           <a href="https://www.facebook.com/SxxyAwakening/" style={{color:'white', textDecoration:'none'}}>Facebook</a> | &nbsp;
           <a href="https://twitter.com/sexyawakening" style={{color:'white', textDecoration:'none'}}>Twitter</a> &nbsp;
           </p>
-          <p>
+          {/*<p>
             <img src={visa} width="30" height="20" />  &nbsp;
             <img src={mastercard} width="30" height="20" />  &nbsp;
             <img src={discover} width="30" height="20" />  &nbsp;
             <img src={amex} width="30" height="20" />  &nbsp;
             <img src={logo} width="30" height="20" />  &nbsp;
-          </p>
+          </p>*/}
         </div>
     </div>
   </footer>
