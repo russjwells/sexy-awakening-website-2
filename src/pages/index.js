@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Welcome Home" />
-    <p>Explore sacred sexuality and conscious relationships in an online transformational space. <br /></p>
+    <p>Explore sacred sexuality and conscious relationships in a transformational space. <br /> Sexy Awakening is the best place to meet new romantic interests, lovers, and friends online.</p>
     <h2>Intentional Swiping</h2>
     <p>Swipe according to your interest... as if you had to pick one! Right for sex, up for romance, left for friendship, and down to pass. When someone swipes you with the <b>same intention</b> you are connected.</p>
     <h2>About Us</h2>
