@@ -7,12 +7,12 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Welcome Home" />
-    <p>Explore sacred sexuality and conscious relationships in a transformational space. <br /> Sexy Awakening is the best place to meet new romantic interests, lovers, and friends online.</p>
+    <SEO title="Welcome to" />
+    <p>Explore sacred sexuality and conscious relationships in an intentional transformational space. <br /> Sexy Awakening is the best place online to meet new romantic interests, lovers, and friends.</p>
     <h2>Intentional Swiping</h2>
-    <p>Swipe according to your interest... as if you had to pick one! Right for sex, up for romance, left for friendship, and down to pass. When someone swipes you with the <b>same intention</b> you are connected.</p>
+    <p>Swipe according to your interest... Right for sex, up for romance, left for friendship, and down to pass. When someone swipes you with the <b>same intention</b> you are connected and can begin to message with a clear mutual energy.</p>
     <h2>About Us</h2>
-    <p>We believe that relationships are a <b>transformational experience</b> and we exist in order to facilitate <b>spiritual evolution</b> through relationships and sexuality. We encourage honest communication and radical self-expression on our platform. Sexy Awakening is a place for beings of <b>higher consciousness</b> to flourish and grow. A sex positive and inclusive space held for expression, play and connection. We understand sexuality to be fluid, gender as nonbinary, and that everyone is sacred. There is space for you here.</p>
+    <p>We believe that relationships are a <b>transformational experience</b> and we exist in order to facilitate <b>spiritual evolution</b> through relationships and sexuality. We encourage honest communication and radical self-expression on our platform. Sexy Awakening is a place for beings of <b>higher consciousness</b> to flourish and grow. A sex positive and inclusive, yet discerning space held for expression, play and connection. We understand sexuality to be fluid, gender as nonbinary, and that everyone is sacred. There is space for you here.</p>
     <h2>Membership</h2>
     <p>Sexy Awakening is <b>free</b> to use, but paid memberships are available for $11 per month. You must be 18 or older to create an account.</p>
     <h2>How to Enter</h2>
@@ -37,8 +37,9 @@ const IndexPage = () => (
       //<h2>Support Us</h2>
       //<p>Sexy Awakening is independently created and funded. If you'd like to support Sexy Awakening please <a href="https://www.patreon.com/sexyawakening">become our Patron</a> on Patreon. We appreciate you.</p>
     }
-    <h2>Thank you</h2>
+    <h2>Thank you & ways to support</h2>
     <p>We are grateful for your presence with us.</p>
+    <p>If you'd like to support Sexy Awakening, then consider becoming a recurring supporter on <a href="https://www.patreon.com/sexyawakening">Patreon</a>, or making a one time donation through our <a href="https://www.gofundme.com/f/8zsup4">GoFundMe</a>.</p>
   </Layout>
 )
 
